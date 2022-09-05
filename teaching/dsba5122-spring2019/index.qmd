@@ -1,0 +1,9 @@
+---
+title: "Visual Analytics"
+description: "A graduate course in data visualization with R, ggplot2, and shiny"
+institution: UNCC
+course: DSBA5122
+date: "Spring 2019"
+image: "dsba5122.png"
+link: "https://dsba5122-spring2019.netlify.app/"
+---

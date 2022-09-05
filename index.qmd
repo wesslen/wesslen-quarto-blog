@@ -1,0 +1,55 @@
+---
+title: Ryan Wesslen
+about:
+  id: hero-heading
+  template: trestles
+  image: static/images/portrait.jpeg
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/ryanwesslen
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/ryanwesslen
+    - icon: github
+      text: Github
+      href: https://github.com/wesslen
+listing: 
+  - id: listing-blog
+    contents: "blog/"
+    sort: "date desc"
+  - id: listing-publications
+    contents: "publications/"
+    sort: "date desc"
+  - id: listing-teaching
+    contents: "teaching/"
+    sort: "date desc"
+---
+
+:::{#hero-heading}
+
+Ryan Wesslen is a machine learning engineer at [Explosion](https://explosion.ai/) 💥 where he works on [Prodigy](https://prodi.gy/), a modern annotation tool for creating training data for machine learning models. 
+
+Ryan’s academic research focuses on human-centered artificial intelligence to investigate ways human-computer interaction and data visualizations can be combined with machine learning and natural language processing. 
+
+:::
+
+# Blog
+
+:::{#listing-blog}
+
+:::
+
+# Research
+
+:::{#listing-publications}
+
+:::
+
+# Teaching
+
+:::{#listing-teaching}
+
+:::

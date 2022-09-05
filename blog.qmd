@@ -1,0 +1,14 @@
+---
+listing:
+  contents: blog
+  sort: "date desc"
+  type: default
+  categories: true
+page-layout: full
+title-block-banner: false
+---
+
+# Blog
+
+<br>
+

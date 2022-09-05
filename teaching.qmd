@@ -1,0 +1,16 @@
+---
+listing:
+  contents: teaching
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [title, description, institution, course, semester, image] 
+page-layout: full
+title-block-banner: true
+---
+
+# Teaching
+
+<br>

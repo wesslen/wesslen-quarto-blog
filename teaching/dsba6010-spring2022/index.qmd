@@ -1,0 +1,10 @@
+---
+title: "Special Topics: Bayesian Statistics"
+description: "Build your knowledge of and confidence in making inferences from data through Bayesian statistics and causal inference modeling"
+institution: UNCC
+course: DSBA6010
+date: "Spring 2022"
+image: "dsba6010-hex.png"
+link: "https://bit.ly/bayes-stats"
+---
+
