@@ -3,7 +3,7 @@ title: "Ryan Wesslen"
 image: static/images/portrait.jpeg
 about:
   id: hero-heading
-  template: solana
+  template: trestles
   image-width: 10em
   image-shape: round
   links:
@@ -22,10 +22,12 @@ about:
 
 :::{#hero-heading}
 
-Ryan Wesslen is executive director and principal of NLP & GenAI at Wells Fargo.
+Ryan Wesslen is executive director and principal of NLP & GenAI in Wells Fargo's enterprise data science organization.
 
-An experienced data scientist with 15+ years of experience, Ryan previously served as ML engineer and customer lead at Explosion. At Bank of America, he managed a team of NLP data scientists and held various roles in credit risk analytics and modeling.
+Ryan previously served as ML engineer and customer lead at Explosion. He also worked nearly a decade at Bank of America where he managed a team of NLP data scientists and held various roles in credit risk analytics and modeling. 
 
 Ryan holds a Ph.D. in computing and information systems and master's degrees in economics, financial mathematics, and data science. He has published 20+ articles in human-computer interaction and computational social science with 750+ citations and teaches as an adjunct faculty member at UNC Charlotte's School of Data Science.
+
+He has served on UNC Chapel Hill's economics department alumni advisory board for 10+ years and currently serves as the board's co-chair.
 
 :::
