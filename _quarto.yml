@@ -7,20 +7,20 @@ website:
   site-url: https://wesslen.netlify.app
   description: "Ryan Wesslen's personal Blog."
   navbar:
-    left:
-      - text: Blog
-        href: blog.qmd
-      - text: Publications
-        href: publications.qmd
-      - text: Teaching
-        href: teaching.qmd
+    # left:
+    #   - text: Publications
+    #     href: publications.qmd
+    #   - text: Teaching
+    #     href: teaching.qmd
     right:
-      - icon: github
-        href: https://github.com/wesslen
-      - icon: twitter
-        href: https://twitter.com/ryanwesslen
+      - icon: envelope
+        href: mailto:rwesslen@gmail.com
       - icon: linkedin
         href: https://linkedin.com/in/ryanwesslen
+      - icon: github
+        href: https://github.com/wesslen
+      - text: "{{< ai google-scholar size=xl >}}"
+        href: https://scholar.google.com/citations?user=F40SbCkAAAAJ&hl
   google-analytics: 
     tracking-id: "G-VX7KRFGCZW"
     anonymize-ip: true
@@ -28,6 +28,7 @@ website:
     image: thumbnail_blog.png
     card-style: summary_large_image
     creator: "@ryanwesslen"
+  search: false
 
 format:
   html:

@@ -6,17 +6,19 @@ about:
   image-width: 10em
   image-shape: round
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/ryanwesslen
+    - icon: envelope
+      text: Email
+      href: mailto:rwesslen@gmail.com
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/ryanwesslen
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/wesslen
+    - text: "{{< ai google-scholar size=xl >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=F40SbCkAAAAJ&hl
 ---
 
-Ryan Wesslen is a machine learning engineer at [Explosion](https://explosion.ai/) 💥 where he works on [Prodigy](https://prodi.gy/), a modern annotation tool for creating training data for machine learning models. 
+Ryan Wesslen is Executive Director and Principal of NLP & GenAI at [Wells Fargo](https://www.wellsfargo.com/). Prior to this role, Ryan was ML Engineer and Customer Lead at [Explosion](https://explosion.ai) and led an NLP team in [Bank of America](https://www.bankofamerica.com/)'s Chief Data Scientist Organization.
 
-Ryan’s academic research focuses on human-centered artificial intelligence to investigate ways human-computer interaction and data visualizations can be combined with machine learning and natural language processing. 
+He holds a Ph.D. in Computing and Information Systems and master's degrees in economics, financial mathematics, and data science. Ryan has published over 20 articles with 750+ citations and teaches at [UNC Charlotte's School of Data Science](https://sds.charlotte.edu/).
